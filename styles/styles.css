@@ -1,10 +1,61 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300&display=swap');
 
-.header-contents{display: flex;}
 
-.header-icons a{display: flex;}
+
+body{height: 100%;
+width: 100%;}
+
+
+
+
+.header-contents{display: flex;
+background-color:#2D25A0 ;
+justify-content: center;
+font-size: 30px;
+line-height: 80px;
+height:677px;
+width: 1440;
+
+
+}
+
+
+
+.header-contents .header-heading{color: #ffff;
+    padding: 207px 102px 240px 156px;}
+
+.header-button{padding-bottom: 228;}
+button{
+    height: 44px;
+    width: 168px;
+    left: 154px;
+    top: 475px;
+    border-radius: 0px;
+    
+    background: #E02C6D;
+    font-size: 16px;
+    width: 500;
+    line-height: 24px;
+}
+
+.header-button a{display: flex;
+text-decoration: none;
+
+color: aliceblue;
+
+padding: 10px, 24px, 10px, 24px;
+
+}
+
+#watch-live{color: aliceblue;}
+
+.icon{margin-left: 20px;
+padding-top: 5px;}
+
+.header-image{padding: 150px 100px 86px 37px;}
 .header-image img{width:556.01px;
     height: 428px;
-    /* top: 153px; */
-    /* left: 1299.01px; */
+    top: 153px; 
+    left: 1299.01px; 
+
     }
