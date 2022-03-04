@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300&display=swap');
+
+.header-contents{display: flex;}
+
+.header-icons a{display: flex;}
+.header-image img{width:556.01px;
+    height: 428px;
+    /* top: 153px; */
+    /* left: 1299.01px; */
+    }
