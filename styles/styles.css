@@ -188,14 +188,33 @@ row-gap: 25px;
 
 
 
-.footer-images{}
-footer .footer-image img{
-    height: 110px;
-    width: 485px;
-      }
+.footer-images{
+    width: 100%;
+}
 
-    ;
-            }
+.footer-logo{margin-left: 30%;
+margin-top: 100px;}
+
+.footer-images .footer-logo img{height: 110px;
+width: 480px;}
+
+
+.footer-icons{
+    margin-top:20px;
+    margin-left: 40%;}
+
+footer .footer-icons img{height: 40px;
+width: 40px;
+margin-left: 14px;} 
+
+#end{text-align: center;
+    /* margin-left: 30px; */
+    font-weight: 700;}
+
+
+      
+
+    
 
 
 
